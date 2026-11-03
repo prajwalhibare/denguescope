@@ -1,4 +1,4 @@
-# DengueScope 02
+# DengueScope
 Scroll-interactive dengue analysis using real Karnataka public reports. No live incidence feed is claimed.
 
 ## Run
